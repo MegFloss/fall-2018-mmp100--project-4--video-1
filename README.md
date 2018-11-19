@@ -1,5 +1,5 @@
 # Project 4 — Video
-For this project, you’ll create a 120- to 150-second music video using Premiere Pro, then upload it to your MMP server account. You may tell a story, interview someone, create a music video, etc. The video footage must be a combination of your own footage (at *least* 50%) plus footage from [Archive.org](https://archive.org/details/audio) (at *most* 50%).
+For this project, you’ll create a 120- to 150-second music video using Premiere Pro, then upload it to your MMP server account. You may tell a story, interview someone, create a music video, etc. The video footage must be a combination of your own footage (at *least* 50%) plus footage from [Archive.org](https://archive.org/details/movies) (at *most* 50%).
 
 You may use copyrighted material, Creative Commons-licensed material, or your own. These are the guidelines.
 
