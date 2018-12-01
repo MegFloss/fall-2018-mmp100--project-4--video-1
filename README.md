@@ -27,10 +27,17 @@ You own the copyright to your work. Thus, it’s up to you whether you want to m
 7. Edit this `README.md` file, according to the **Submission** directions below, by adding a link to your project and including a description.
 
 ### Link
-[Click here](http://www.add-link-to-your-project-here.com)
+[Click here](http://mmp.bmcc.cuny.edu/victor.nekhlyudov/fall-2018/mmp-100/project-4/)
 
 ### Description
-Your description goes here.
+This project is called "Fun With Lights".  
+This video is created using a Gear 360 camera and Gear 360 Active Director and Premiere Elements 15 software.
+The Audio track playing in the background is "Ghosts and Stuff" by Deadmau5.
+The original vid is about 40 seconds long cutout of a longer video I created.
+The vid runs with the "wind" effect at x1.27 speed originally making it look like its in forward motion.
+Than it runs backwards with the "Edge Light" effect making it look Tron like.
+Lastly the video runs forward at regular speed with the "Pen Ink", "Metal", and "Delay" effects with additional overlays.
+The pen ink creates a cool matrix like effect, the metal looks like cells reproducing, and the delay effect is just cool looking.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
