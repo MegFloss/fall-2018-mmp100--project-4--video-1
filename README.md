@@ -27,7 +27,7 @@ You own the copyright to your work. Thus, it’s up to you whether you want to m
 7. Edit this `README.md` file, according to the **Submission** directions below, by adding a link to your project and including a description.
 
 ### Link
-[Click here](http://www.add-link-to-your-project-here.com)
+[Click here](https://github.com/AnthonyZ1984/fall-2018-mmp100--project-4--video)
 
 ### Description
 Your description goes here.
