@@ -23,7 +23,7 @@ You own the copyright to your work. Thus, it’s up to you whether you want to m
 3. Name the exported file using lowercase characters and dashes to delimit words. For example, if you created a project called `the-shape-of-water`, then you’d name the file `the-shape-of-water.mp4`.
 4. Place the movie file in your `project-4` folder.
 5. Create an `index.html` file, add the name of the project to an `h1` element, your full name underneath that in an `h2` element, and a link to the movie using the `video` element. Add `index.html` to your `project-4` folder.
-6. Using FileZilla, upload the `project-4` folder to your MMP server account, under the `mmp-100` folder you created for project 3. The URL for the user Guillermo del Toro, for example, would be [`http://mmp.bmcc.cuny.edu/guillermo.del.toro/fall-2018/mmp-100/project-4/`](http://mmp.bmcc.cuny.edu/guillermo.del.toro/fall-2018/mmp-100/project-4/).
+6. Using FileZilla, upload the `project-4` folder to your MMP server account, under the `mmp-100` folder you created for project 3. The URL for the user Guillermo del Toro, for example, would be [`http://mmp.bmcc.cuny.edu/kendrick.valentine/fall-2018/mmp-100/project-4/`](http://mmp.bmcc.cuny.edu/kendrick.valentine/fall-2018/mmp-100/project-4/).
 7. Edit this `README.md` file, according to the **Submission** directions below, by adding a link to your project and including a description.
 
 ### Link
