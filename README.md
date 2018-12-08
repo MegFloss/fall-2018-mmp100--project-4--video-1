@@ -30,7 +30,7 @@ You own the copyright to your work. Thus, it’s up to you whether you want to m
 [Click here](http://mmp.bmcc.cuny.edu/brenden.wong/fall-2018/mmp-100/project-4/)
 
 ### Description
-Your description goes here.
+The title is through the link. Don't worry its not troublesome....unfortantely.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
