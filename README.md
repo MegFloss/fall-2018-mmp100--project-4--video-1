@@ -30,7 +30,7 @@ You own the copyright to your work. Thus, it’s up to you whether you want to m
 [Click here](http://www.add-link-to-your-project-here.com)
 
 ### Description
-Orginal content from the Macy's Thanksgiving Day Parade and the Ai Summit
+Original content from the Macy's Thanksgiving Day Parade and the Ai Summit
 ## Rules
 * **Do not** add or remove any files to this repo.
 * **Only** edit `README.md`, per the directions above.
