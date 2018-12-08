@@ -27,10 +27,10 @@ You own the copyright to your work. Thus, it’s up to you whether you want to m
 7. Edit this `README.md` file, according to the **Submission** directions below, by adding a link to your project and including a description.
 
 ### Link
-[Click here](http://www.add-link-to-your-project-here.com)
+[Click here](http://mmp.bmcc.cuny.edu/kendrick.valentine/fall-2018/mmp-100/project-4/)
 
 ### Description
-Your description goes here.
+This video is about the steps on how to make really good pancakes.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
