@@ -27,7 +27,7 @@ You own the copyright to your work. Thus, it’s up to you whether you want to m
 7. Edit this `README.md` file, according to the **Submission** directions below, by adding a link to your project and including a description.
 
 ### Link
-['http://mmp.bmcc.cuny.edu/acerlia.bennett/fall-2018/mmp-100/project-4'](http://mmp.bmcc.cuny.edu/acerlia.bennett/fall-2018/mmp-100/project-4)
+[Click Here](http://mmp.bmcc.cuny.edu/acerlia.bennett/fall-2018/mmp-100/project-4)
 
 ### Description
 My Brother went to cuba and took pictures.
