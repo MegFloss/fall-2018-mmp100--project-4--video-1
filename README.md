@@ -30,7 +30,7 @@ You own the copyright to your work. Thus, it’s up to you whether you want to m
 [Click here](http://mmp.bmcc.cuny.edu/gabriel.caban/fall-2018/mmp-100/project-4/)
 
 ### Description
-Your description goes here.
+Made a video of landscapes inspired by the original music video, except it captures nature in new york instead of in the wood. the music video is "dj khaled is my father" by spooky black
 
 ## Rules
 * **Do not** add or remove any files to this repo.
