@@ -30,7 +30,7 @@ You own the copyright to your work. Thus, it’s up to you whether you want to m
 [Click here[`http://mmp.bmcc.cuny.edu/syedroshaan.alisardar/fall-2018/mmp-100/project-4/`]](http://mmp.bmcc.cuny.edu/syedroshaan.alisardar/fall-2018/mmp-100/project-4/)
 
 ### Description
-This is my journey to the northern area of Pakistan. Naran is considered to be one the beautiful places in Pakistan.
+This is my journey to the northern area of Pakistan. Naran is to be considered to be one the beautiful places in Pakistan.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
