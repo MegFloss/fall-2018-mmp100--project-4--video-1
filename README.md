@@ -30,7 +30,7 @@ You own the copyright to your work. Thus, it’s up to you whether you want to m
 [Click here](http://mmp.bmcc.cuny.edu/jimmy.morales/fall-2018/mmp-100/project-4/)
 
 ### Description
-Your description goes here.
+we got into the car and chose a random destination most of what i shot was not intentional
 
 ## Rules
 * **Do not** add or remove any files to this repo.
