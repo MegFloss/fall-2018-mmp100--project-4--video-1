@@ -30,7 +30,7 @@ You own the copyright to your work. Thus, it’s up to you whether you want to m
 [Click here](http://www.add-link-to-your-project-here.com)
 
 ### Description
-Your description goes here.
+This is my take on the song Obsession, hope you guys like it.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
